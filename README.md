@@ -24,3 +24,19 @@ Feito o construtor dessa classe, os métodos addProduct e addOrder são criados.
 
 
 O método calcOrder terá como função buscar o id do pedido e, a partir desse id, listar os pedidos somando o preço total de cada um deles. Por fim, retornamos o id juntamente com a soma final desses pedidos.
+
+
+
+## Sistema de Gerenciamento de Cursos
+
+A classe Course por sua vez também é responsável por cadastrar cursos.
+Seus atriutos são 'name' e 'description' que tratam de sua construção enquanto 'alunos' armazena os membros daquele curso.
+
+
+
+Na classe Plataform são encontrados os principais métodos de controle da aplicação. Ele possui apenas um atributo 'courses' para armazenar os cursos.
+
+- addCourse: Adiciona um curso a plataforma.
+- addStudent: Adiciona um aluno em um curso que exista dentro da Plataforma.
+- listStudent: Lista todos os alunos presentes em um curso específico.
+- listCoutses: Lista todos os cursos adicionados a Plataforma.
