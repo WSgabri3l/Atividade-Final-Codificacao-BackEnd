@@ -1,4 +1,11 @@
-# Atividade Final Java 
+# Atividade Final Codificação Back-End
+<p align="left">
+  <p>Matéria focada no desenvolvimento de lógica de programação para fins de Back-End e introdução a linguagem Java.</p>
+</p>
+
+## Requerimentos
+
+- Java Version 17.0.0 ou superior.
 
 ## Sistema de Controle de Pedidos
 
