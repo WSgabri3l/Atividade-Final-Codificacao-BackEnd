@@ -40,3 +40,8 @@ Na classe Plataform são encontrados os principais métodos de controle da aplic
 - addStudent: Adiciona um aluno em um curso que exista dentro da Plataforma.
 - listStudent: Lista todos os alunos presentes em um curso específico.
 - listCoutses: Lista todos os cursos adicionados a Plataforma.
+
+
+
+---
+*Desenvolvido por [Dalton Alex](https://github.com/dalton4lex), [Paulo Gabriel](https://github.com/WSgabri3l) e [Ryan Medeiros](https://github.com/Ryanmedeirosp)*
